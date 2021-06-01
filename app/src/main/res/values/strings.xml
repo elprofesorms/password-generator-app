@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Creator</string>
+    <string name="includeNum">Include Numeric value</string>
+    <string name="includeUpCase">Include Uppercase Alphabets</string>
+    <string name="includeCharacter">Include Special Character[!,#,*,etc.]</string>
+    <string name="weak">Weak</string>
+    <string name="chooseLvl">Choose difficulty level:</string>
+    <string name="create">Create</string>
+    <string name="copy">Copy</string>
+    <string name="normal">Normal</string>
+    <string name="strong">Strong</string>
+    <string name="passwordField">****</string>
+    <string name="headingDiscription">Create your own unique password.</string>
+    <string name="keywordHInt">Enter any word....</string>
+    <string name="noneLvlDis">You didn\'t selected the difficulty level.</string>
+    <string name="copied">Text Copied Sucessfully!</string>
+</resources>
