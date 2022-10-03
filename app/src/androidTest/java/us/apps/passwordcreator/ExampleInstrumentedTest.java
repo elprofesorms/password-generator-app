@@ -22,5 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
         assertEquals("us.apps.passwordcreator", appContext.getPackageName());
+        //use tokens to approve it
     }
 }
